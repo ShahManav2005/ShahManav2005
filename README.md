@@ -1,13 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:F72585&height=200&section=header&text=Manav%20Shah&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer&descAlignY=55&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:60A5FA&height=200&section=header&text=Manav%20Shah&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer&descAlignY=55&descSize=20" />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manav-shah-5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:manavshah5577@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ShahManav2005&style=for-the-badge&color=7F5AF0" alt="profile views" />
+  <a href="https://www.linkedin.com/in/manav-shah-5"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:manavshah5577@gmail.com"><img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Final-Year+CSE+Student+%40+Parul+University;MERN+Stack+Developer;Building+Freedoom+Sales+%26+ExpiryMart;Open+to+SDE+Internships+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Final-Year+CSE+Student+%40+Parul+University;MERN+Stack+Developer;Building+Freedoom+Sales+%26+ExpiryMart;Open+to+SDE+Internships+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -71,12 +70,13 @@ Peer-to-peer marketplace for near-expiry essential products with an inspection w
 </td>
 </tr>
 </table>
+
 ---
 
-### 🐍 Contribution Snake
+### 📈 Commit Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShahManav2005/ShahManav2005/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShahManav2005&bg_color=ffffff&color=2563EB&line=2563EB&point=1E3A8A&area=true&hide_border=true" width="95%" />
 </p>
 
 ---
@@ -85,4 +85,4 @@ Peer-to-peer marketplace for near-expiry essential products with an inspection w
   <i>📫 Open to remote internships and full-stack roles — let's connect on LinkedIn!</i>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,100:7F5AF0&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,100:2563EB&height=100&section=footer" />
