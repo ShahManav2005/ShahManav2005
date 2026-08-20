@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-- 🎓 3rd-year B.Tech Computer Science Engineering student at **Parul University**, Gujarat (Expected 2027)
+- 🎓 Final-year B.Tech Computer Science Engineering student at **Parul University**, Gujarat (Expected 2027)
 - 💻 Hands-on experience building and deploying **role-based full-stack apps** with the MERN stack, MySQL, RESTful APIs, and JWT auth across Render, Vercel, and MongoDB Atlas
 - 🧠 Solved **200+ DSA problems** across LeetCode and GeeksforGeeks
 - 🌱 Currently exploring Salesforce development and preparing for an MS in AI/ML
@@ -42,15 +42,6 @@ Role-based ERP/CRM for wholesale/distribution with 4 roles (Admin, Accounts, War
 
 **[ExpiryMart — Peer-to-Peer Marketplace](https://github.com/ShahManav2005/ExpiryMart-MERN)**
 Marketplace for near-expiry essential products with an inspection workflow before listing. Originally built in Flask/MongoDB, currently being rebuilt into a production MERN architecture.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShahManav2005&show_icons=true&theme=default" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahManav2005" width="48%" />
-</p>
 
 ---
 
