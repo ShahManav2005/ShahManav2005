@@ -73,16 +73,8 @@ Peer-to-peer marketplace for near-expiry essential products with an inspection w
 
 ---
 
-### 📈 Commit Activity
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShahManav2005&bg_color=ffffff&color=2563EB&line=2563EB&point=1E3A8A&area=true&hide_border=true" width="95%" />
-</p>
-
----
-
-<p align="center">
-  <i>📫 Open to remote internships and full-stack roles — let's connect on LinkedIn!</i>
+  <i>📫 Open to internships and full-stack roles — let's connect on LinkedIn!</i>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,100:2563EB&height=100&section=footer" />
